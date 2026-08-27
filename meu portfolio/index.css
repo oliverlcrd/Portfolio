@@ -222,3 +222,17 @@ h1 {
     color: #aab1d0;
     font-size: 18px;
 }
+
+.estrela{
+    position: absolute;
+    width: 30px;
+    height: auto;
+    top: -50px
+    right: 10%
+    opacity: 0.8;
+    animation: cair 4s infinite ease-in-out;
+
+}
+
+
+}
