@@ -9,8 +9,8 @@ html {
 }
 
 body {
-    background: #080d3d;
-    color: #f1f1f5;
+    background: #000508;
+background: linear-gradient(90deg, rgba(0, 5, 8, 1) 0%, rgba(16, 25, 41, 1) 33%, rgba(27, 44, 74, 1) 53%, rgba(27, 44, 74, 1) 56%, rgba(37, 60, 107, 1) 100%);
     font-family: Arial, sans-serif;
 }
 
